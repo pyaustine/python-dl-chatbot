@@ -21,6 +21,12 @@ pip install tensorflow
 pip install flask
 ```
 
+3. Or, you can install all the dependencies from the requirements.txt file as follows:
+
+```
+pip install -r requirements.txt
+```
+
 Run the chatbot.py file to create the model
 
 ```
