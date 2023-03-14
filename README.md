@@ -4,7 +4,7 @@ A deep learning chatbot created with Python and Flask
 
 To get started follow the steps below:
 
-1. Install a virtual environment by runnning the following
+1. Create and activate a virtual environment by runnning the following
 
 ```
 virtualenv chatbotenv
