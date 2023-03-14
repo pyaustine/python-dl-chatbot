@@ -106,13 +106,24 @@
         "Tell me your name",
         "Who are you",
         "Tell me about yourself",
-        "You are"
+        "You are",
+        "What are you"
       ],
       "responses": [
         "I am a chatbot",
         "My name is Jijue Chatbot",
         "You can call me JC in short",
-        "I am a chatbot created to help you"
+        "I am a chatbot created to help you",
+        "My name is ChatBot. How can I assist you today?",
+        "I'm ChatBot, nice to meet you! What can I help you with?",
+        "My name is Jijue and I'm here to help. What brings you here?",
+        "I'm a chatbot designed to assist you. How can I be of service?",
+        "My name is ChatBot, and I'm here to answer your questions. What can I help you with?",
+        "I'm a chatbot here to assist you. What can I do for you today?",
+        "My name is ChatBot. What can I assist you with today?",
+        "I'm a chatbot designed to help you find the information you need. What would you like to know?",
+        "My name is ChatBot. How can I make your experience better?",
+        "I'm a chatbot here to assist you with any questions or concerns you may have. What can I help you with?"
       ]
     },
 
