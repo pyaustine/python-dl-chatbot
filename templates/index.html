@@ -8,7 +8,7 @@
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Talkie</title>
+    <title>Jijue Chatbot</title>
 
     <link
       rel="stylesheet"
@@ -25,7 +25,7 @@
   </head>
   <body>
     <div class="container">
-      <h1>Welcome Talkie Chatbot</h1>
+      <h1>Jijue Chatbot</h1>
       <br />
       <hr />
       <br />
@@ -37,6 +37,7 @@
             type="text"
             name="question"
             id="question"
+            placeholder="Type here..."
           />
         </div>
         <div class="col-lg-3">
@@ -45,7 +46,9 @@
           </button>
         </div>
       </div>
+
       <br />
+
       <div class="row">
         <div class="col">
           <p id="response"></p>
@@ -74,9 +77,9 @@
             },
             success: function (result) {
               $("#response").append(
-                "<br>Me: " +
+                "<br>Me : " +
                   $("#question").val() +
-                  "<br> Karabo: " +
+                  "<br> Jijue : " +
                   result.response
               );
               $("#question").val("");
