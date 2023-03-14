@@ -20,7 +20,6 @@
         "Yes, how can I help you?",
         "Ey what up?",
         "Hey!",
-        "Holla",
         "Hello, ask for any assistance",
         "Hello, I'm here to help you"
       ]
@@ -34,9 +33,8 @@
         "Have a nice day",
         "Sure Bye",
         "Later dude",
-        "Sayoonara",
         "Peace out",
-        "Sure dude",
+        "Sure",
         "Ciao"
       ]
     },
@@ -618,6 +616,65 @@
         "Even if you think you are not at risk for HIV, it's still important to get tested regularly.",
         "If you test positive for HIV, you will receive support and resources to manage the virus and protect your health.",
         "Getting tested for HIV is a brave and empowering decision, and you should be proud of taking control of your sexual health."
+      ]
+    },
+
+    {
+      "tag": "book_appointment",
+      "patterns": [
+        "Can I schedule an appointment with you?",
+        "How do I book an appointment with you?",
+        "Do you have availability for an appointment?",
+        "Can you pencil me in for an appointment?",
+        "When is your next available appointment slot?",
+        "Is there a way to book an appointment online?",
+        "What times do you have available for an appointment?",
+        "Can you please schedule an appointment for me?",
+        "What is the best way to book an appointment with you?",
+        "How soon can I get an appointment with you?",
+        "Do I need to call or can I book an appointment online?",
+        "Can you tell me when your next available appointment is?",
+        "Can I schedule an appointment for next week?",
+        "How long will it take for me to get an appointment?",
+        "Is there a waitlist I can be added to for an appointment?",
+        "Can you book me in for an appointment next month?",
+        "Do you have any availability today for an appointment?",
+        "Can you schedule a follow-up appointment for me?",
+        "How far in advance do I need to book an appointment with you?",
+        "What are your office hours for booking appointments?",
+        "Can you tell me how to make an appointment with you?",
+        "What is the earliest appointment time you have available?",
+        "What is the latest appointment time you have available?",
+        "Can I book an appointment for a specific time of day?",
+        "Do you have any available appointments this week?",
+        "How do I schedule a same-day appointment?",
+        "Can I book an appointment for a specific date?",
+        "Can you let me know when your next appointment opening is?",
+        "What is your process for booking an appointment?",
+        "Can I book an appointment for a specific duration?",
+        "Can I schedule an appointment for more than one person?",
+        "What is the procedure for booking an appointment?",
+        "Do you have any cancellations that would allow me to get an appointment sooner?",
+        "Can you please book me in for a consultation?",
+        "Can I schedule an appointment for a virtual visit?",
+        "How do I book an appointment with a specific doctor or specialist?",
+        "Do you have any same-day appointment openings available?",
+        "Can I make an appointment in person or does it have to be over the phone?",
+        "Can I book an appointment for a specific service or treatment?",
+        "How can I schedule a follow-up appointment with you?",
+        "Can I schedule an appointment for a second opinion?",
+        "What is the process for booking a telemedicine appointment?",
+        "Can I schedule an appointment for a weekend or after-hours?",
+        "Do you offer online appointment booking?",
+        "Can I schedule an appointment for a phone consultation?",
+        "What is the lead time for booking an appointment?",
+        "How do I schedule an appointment for a medical test or procedure?",
+        "Can I schedule an appointment for a home visit or house call?",
+        "What is your policy for canceling or rescheduling appointments?",
+        "Can I book an appointment for a minor or on behalf of someone else?"
+      ],
+      "responses": [
+        "Jijue provides you with a page where you can book an appointment to your nearest facility. Navigate to https://jijue.kenyahmis.org/appoinment. Thank you"
       ]
     }
   ]
