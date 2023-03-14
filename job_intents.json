@@ -15,13 +15,26 @@
         "Hi"
       ],
       "responses": [
-        "Hi",
-        "Hello",
-        "Yes, how can I help you?",
-        "Ey what up?",
-        "Hey!",
-        "Hello, ask for any assistance",
-        "Hello, I'm here to help you"
+        "Hello! How can I help you today?",
+        "Hey there, what brings you to our chat?",
+        "Hello, thank you for reaching out to us. What can I do for you?",
+        "Hi! What's on your mind today?",
+        "Welcome to our chat! How can I assist you?",
+        "Hello, it's great to see you! How can I be of service?",
+        "Hi, thanks for contacting us. What can I help you with?",
+        "Hello, I'm here to help. What can I assist you with?",
+        "Hey, thanks for getting in touch. How can I assist you today?",
+        "Hello, what can I help you with?",
+        "Hi there, how can I make your day better?",
+        "Hello, it's nice to hear from you. What brings you here?",
+        "Hi, what can I help you with today?",
+        "Hello, I'm here to assist you. How can I help?",
+        "Hey, what can I assist you with today?",
+        "Hello, thank you for contacting us. What can I do for you today?",
+        "Hi there, how can I assist you with your needs today?",
+        "Hello, I'm glad you're here. What can I help you with?",
+        "Hi, how can I make your experience better today?",
+        "Hello, what can I do for you today?"
       ]
     },
 
@@ -50,11 +63,22 @@
       ],
       "responses": [
         "Happy to help!",
-        "Any time!",
-        "My pleasure",
-        "You are welcome",
-        "Sure",
-        "I hope this helps! Let me know if you have any further questions."
+        "I hope this helps! Let me know if you have any further questions.",
+        "You're welcome! Do you need help with anything else?",
+        "No problem at all. It was my pleasure to assist you.",
+        "You're welcome! Let me know if there's anything else I can help you with.",
+        "It was my pleasure to help. Is there anything else you need assistance with?",
+        "You're welcome! Feel free to contact us again if you need further assistance.",
+        "Glad I could be of assistance. Is there anything else you need help with?",
+        "No need to thank me, it's what I'm here for. How else can I assist you?",
+        "You're welcome! If you have any further questions, don't hesitate to ask.",
+        "I'm happy to help. Let me know if there's anything else you need assistance with.",
+        "You're welcome! Have a great day.",
+        "No problem, happy to help. Is there anything else I can do for you?",
+        "You're welcome! I'm here to assist you anytime.",
+        "I'm glad I could be of help. Is there anything else you need assistance with?",
+        "You're welcome! Don't hesitate to contact us if you have any further questions.",
+        "It's no trouble at all. Is there anything else you need help with?"
       ]
     },
 
