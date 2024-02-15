@@ -1,6 +1,7 @@
 # python-deep-learning-chatbot
 
-A deep learning chatbot created with Python and Flask
+- A deep learning chatbot created with Python and Flask
+- This chatbot is used as the base code for the Nishauri android application for KeHMIS
 
 To get started follow the steps below:
 
