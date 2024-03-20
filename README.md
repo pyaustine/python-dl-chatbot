@@ -39,3 +39,6 @@ Run the APP to create a Flask front end on port 8888 (or any port the app is poi
 ```
 python app.py
 ```
+
+# License
+- The license only applies to the source files in this repository.
